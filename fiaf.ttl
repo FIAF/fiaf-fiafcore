@@ -1,7 +1,11 @@
+@prefix fiaf: <https://ontology.fiafcore.org/> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <https://resource.fiafcore.org/55ff5416-8a8c-4e85-ace1-c8f7575aa113>
-  a <https://ontology.fiafcore.org/CorporateBody> ;
+  a fiaf:CorporateBody ;
   rdfs:label "International Federation of Film Archives"@en, 
     "Federación Internacional de Archivos Fílmicos"@es, 
-    "Fédération internationale des archives du film"@fr .
+    "Fédération internationale des archives du film"@fr ;
+  fiaf:hasEvent [
+    fiaf:hasEventDate "1938"^^xsd:gYear
+  ] .
