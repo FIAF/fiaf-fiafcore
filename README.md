@@ -1,2 +1,2 @@
-# FIAF Data
+# FIAF
 FIAF data conformed to FIAFcore.
