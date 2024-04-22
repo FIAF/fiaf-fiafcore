@@ -1,0 +1,471 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://resource.fiafcore.org/0850e6b3-dc04-4852-bb0b-87836d239af9> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "South African National Film, Video and Sound Archives"@en,
+        "South African National Film, Video and Sound Archives"@es,
+        "South African National Film, Video and Sound Archives"@fr .
+
+<https://resource.fiafcore.org/0c8ea258-7c06-4695-b6fa-9bd04450c316> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "The National Library of Norway - Film and Broadcasting"@en,
+        "The National Library of Norway - Film and Broadcasting"@es,
+        "The National Library of Norway - Film and Broadcasting"@fr .
+
+<https://resource.fiafcore.org/0cd1d619-b5a8-46df-a261-da3df6ddb7d7> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "The Danish Film Institute"@en,
+        "The Danish Film Institute"@es,
+        "The Danish Film Institute"@fr .
+
+<https://resource.fiafcore.org/1040aa1d-8c01-42a6-a875-4bc1a639c146> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Filmoteca de la Pontificia Universidad Catolica del Peru (PUPC)"@en,
+        "Filmoteca de la Pontificia Universidad Catolica del Peru (PUPC)"@es,
+        "Filmoteca de la Pontificia Universidad Catolica del Peru (PUPC)"@fr .
+
+<https://resource.fiafcore.org/18733ac0-93ea-4ea7-b05c-730352ff289d> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Cineteca Nacional de Chile"@en,
+        "Cineteca Nacional de Chile"@es,
+        "Cineteca Nacional de Chile"@fr .
+
+<https://resource.fiafcore.org/1b08d52d-79e7-4226-a3b2-e7a575bca945> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Library of Congress - National Audio-Visual Conservation Center (MBRS DIVISION)"@en,
+        "Library of Congress - National Audio-Visual Conservation Center (MBRS DIVISION)"@es,
+        "Library of Congress - National Audio-Visual Conservation Center (MBRS DIVISION)"@fr .
+
+<https://resource.fiafcore.org/1df54160-87c5-4e5b-8bb6-c87efa89d3ee> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "La Cinémathèque québécoise"@en,
+        "La Cinémathèque québécoise"@es,
+        "La Cinémathèque québécoise"@fr .
+
+<https://resource.fiafcore.org/1f17ea63-79d5-4aa7-b8c8-8256fde508d1> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Film Archive (Public Organization)"@en,
+        "Film Archive (Public Organization)"@es,
+        "Film Archive (Public Organization)"@fr .
+
+<https://resource.fiafcore.org/224c3db0-f823-4670-aec8-ef34ade3c7b0> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Arhiva Nationala de Filme - Cinemateca Romana"@en,
+        "Arhiva Nationala de Filme - Cinemateca Romana"@es,
+        "Arhiva Nationala de Filme - Cinemateca Romana"@fr .
+
+<https://resource.fiafcore.org/238fa578-b9af-4bdd-8334-76caa91bef73> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Cinemateca Portuguesa / Museu do Cinema"@en,
+        "Cinemateca Portuguesa / Museu do Cinema"@es,
+        "Cinemateca Portuguesa / Museu do Cinema"@fr .
+
+<https://resource.fiafcore.org/253b07ef-8863-4d95-9d8b-35967ec06a43> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Indiana University Libraries Moving Image Archive / IU Cinema"@en,
+        "Indiana University Libraries Moving Image Archive / IU Cinema"@es,
+        "Indiana University Libraries Moving Image Archive / IU Cinema"@fr .
+
+<https://resource.fiafcore.org/26157303-ffd2-496a-9b2d-c81f11a35daf> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Taiwan Film and Audiovisual Institute"@en,
+        "Taiwan Film and Audiovisual Institute"@es,
+        "Taiwan Film and Audiovisual Institute"@fr .
+
+<https://resource.fiafcore.org/29e543b9-a93e-4f8c-a16d-f0995cc09ee8> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Arhiv Republike Slovenije - Slovenski Filmski Arhiv (SFA)"@en,
+        "Arhiv Republike Slovenije - Slovenski Filmski Arhiv (SFA)"@es,
+        "Arhiv Republike Slovenije - Slovenski Filmski Arhiv (SFA)"@fr .
+
+<https://resource.fiafcore.org/2abef135-7822-45cb-8855-45e35b2e1df3> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Slovenian Cinematheque / Slovenska Kinoteka"@en,
+        "Slovenian Cinematheque / Slovenska Kinoteka"@es,
+        "Slovenian Cinematheque / Slovenska Kinoteka"@fr .
+
+<https://resource.fiafcore.org/30cdfc1d-8519-4352-9337-1901349e1646> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Korean Film Archive"@en,
+        "Korean Film Archive"@es,
+        "Korean Film Archive"@fr .
+
+<https://resource.fiafcore.org/30d95c4c-fb5c-4c42-9e71-0d805c6138d7> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Filmoteca Valenciana - Institut Valencià de Cultura"@en,
+        "Filmoteca Valenciana - Institut Valencià de Cultura"@es,
+        "Filmoteca Valenciana - Institut Valencià de Cultura"@fr .
+
+<https://resource.fiafcore.org/312d229a-077a-4dc6-928b-baccb614ac74> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "TIFF Film Reference Library"@en,
+        "TIFF Film Reference Library"@es,
+        "TIFF Film Reference Library"@fr .
+
+<https://resource.fiafcore.org/3271c8e2-40d1-4a17-b113-f40da8ee41c7> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Filmmuseum München"@en,
+        "Filmmuseum München"@es,
+        "Filmmuseum München"@fr .
+
+<https://resource.fiafcore.org/32a81bae-b36c-45e7-b106-4f206f9afd76> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Národní filmový archiv"@en,
+        "Národní filmový archiv"@es,
+        "Národní filmový archiv"@fr .
+
+<https://resource.fiafcore.org/3395cd61-4203-487a-b029-2c77a7db8dbf> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Filmarchiv Austria"@en,
+        "Filmarchiv Austria"@es,
+        "Filmarchiv Austria"@fr .
+
+<https://resource.fiafcore.org/351f1894-600e-4696-a57d-d0525977fa17> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "National Film Archive of Iran"@en,
+        "National Film Archive of Iran"@es,
+        "National Film Archive of Iran"@fr .
+
+<https://resource.fiafcore.org/3c0e30e1-f762-4a51-9259-8e32335864ab> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Harvard Film Archive"@en,
+        "Harvard Film Archive"@es,
+        "Harvard Film Archive"@fr .
+
+<https://resource.fiafcore.org/3edad896-f575-4539-9779-cb64af6ad5d1> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "National Film and Sound Archive"@en,
+        "National Film and Sound Archive"@es,
+        "National Film and Sound Archive"@fr .
+
+<https://resource.fiafcore.org/41ab7070-d1c2-4daf-9bed-78006682a098> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "National Film Institute Hungary – Film Archive"@en,
+        "National Film Institute Hungary – Film Archive"@es,
+        "National Film Institute Hungary – Film Archive"@fr .
+
+<https://resource.fiafcore.org/429d405e-e802-4173-b7b6-aa5e417d1fcd> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "National Library of Scotland - Moving Image Archive"@en,
+        "National Library of Scotland - Moving Image Archive"@es,
+        "National Library of Scotland - Moving Image Archive"@fr .
+
+<https://resource.fiafcore.org/4498e05d-704e-4238-9bc9-d5caaa45eb64> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "China Film Archive"@en,
+        "China Film Archive"@es,
+        "China Film Archive"@fr .
+
+<https://resource.fiafcore.org/45e03487-8af3-476b-b3e9-c9b1e7487331> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Hong Kong Film Archive"@en,
+        "Hong Kong Film Archive"@es,
+        "Hong Kong Film Archive"@fr .
+
+<https://resource.fiafcore.org/46004dd5-bd68-41f3-aacf-4d52d6cab75c> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Yale Film Archive"@en,
+        "Yale Film Archive"@es,
+        "Yale Film Archive"@fr .
+
+<https://resource.fiafcore.org/4852144a-50ea-4151-ae6f-d61d365c1070> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Film Archive of the National Archives of Estonia"@en,
+        "Film Archive of the National Archives of Estonia"@es,
+        "Film Archive of the National Archives of Estonia"@fr .
+
+<https://resource.fiafcore.org/4a65ff80-8e81-4a29-9771-38f069bfaa78> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Svenska Filminstitutet"@en,
+        "Svenska Filminstitutet"@es,
+        "Svenska Filminstitutet"@fr .
+
+<https://resource.fiafcore.org/4e312655-9409-448f-8584-75306ce29d9b> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Vietnam Film Institute"@en,
+        "Vietnam Film Institute"@es,
+        "Vietnam Film Institute"@fr .
+
+<https://resource.fiafcore.org/5977603b-4762-4d5c-bf0c-c23102455aa7> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "NGA Taonga Sound & Vision / The New Zealand Archive of Film, Television and Sound"@en,
+        "NGA Taonga Sound & Vision / The New Zealand Archive of Film, Television and Sound"@es,
+        "NGA Taonga Sound & Vision / The New Zealand Archive of Film, Television and Sound"@fr .
+
+<https://resource.fiafcore.org/5d0d70bb-3bca-4f3c-a782-3d33c862cdc4> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Kvikmyndasafn Islands  / National Film Archive of Iceland"@en,
+        "Kvikmyndasafn Islands  / National Film Archive of Iceland"@es,
+        "Kvikmyndasafn Islands  / National Film Archive of Iceland"@fr .
+
+<https://resource.fiafcore.org/60559e3a-acd7-4b75-9bb8-0526a52f4243> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Israel Film Archive / Jerusalem Cinematheque"@en,
+        "Israel Film Archive / Jerusalem Cinematheque"@es,
+        "Israel Film Archive / Jerusalem Cinematheque"@fr .
+
+<https://resource.fiafcore.org/620ae1f1-b1c0-4d4d-a8bd-677f11aa3da4> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "La Cinémathèque de Toulouse"@en,
+        "La Cinémathèque de Toulouse"@es,
+        "La Cinémathèque de Toulouse"@fr .
+
+<https://resource.fiafcore.org/6934fc2b-842f-4c42-b96b-4e0e86083a1b> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "NFDC- National Film Archive of India"@en,
+        "NFDC- National Film Archive of India"@es,
+        "NFDC- National Film Archive of India"@fr .
+
+<https://resource.fiafcore.org/6c290b33-a2b0-4252-9bf0-75105d49554a> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Lichtspiel/Kinemathek Bern"@en,
+        "Lichtspiel/Kinemathek Bern"@es,
+        "Lichtspiel/Kinemathek Bern"@fr .
+
+<https://resource.fiafcore.org/6c2e6338-5e85-4916-b436-33756d253635> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "National Library of Wales - Screen and Sound Archives"@en,
+        "National Library of Wales - Screen and Sound Archives"@es,
+        "National Library of Wales - Screen and Sound Archives"@fr .
+
+<https://resource.fiafcore.org/6fbe9896-c51f-44c9-8c02-8d926d0d46c7> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Bulgarska Nacionalna Filmoteka"@en,
+        "Bulgarska Nacionalna Filmoteka"@es,
+        "Bulgarska Nacionalna Filmoteka"@fr .
+
+<https://resource.fiafcore.org/701173a0-6929-4600-867a-0d396390eb04> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Archivo de Imagenes en Movimiento - Archivo General de Puerto Rico"@en,
+        "Archivo de Imagenes en Movimiento - Archivo General de Puerto Rico"@es,
+        "Archivo de Imagenes en Movimiento - Archivo General de Puerto Rico"@fr .
+
+<https://resource.fiafcore.org/775ee5bb-fd2f-48cd-a8ae-8e5ed5ff8179> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Hrvatski Državni Arhiv - Hrvatska Kinoteka  / Croatian State Archive - Croatian Cinematheque"@en,
+        "Hrvatski Državni Arhiv - Hrvatska Kinoteka  / Croatian State Archive - Croatian Cinematheque"@es,
+        "Hrvatski Državni Arhiv - Hrvatska Kinoteka  / Croatian State Archive - Croatian Cinematheque"@fr .
+
+<https://resource.fiafcore.org/77fa1bcd-665d-430e-817a-7df2e65f24c3> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "George Eastman Museum"@en,
+        "George Eastman Museum"@es,
+        "George Eastman Museum"@fr .
+
+<https://resource.fiafcore.org/79673dcb-a6db-4291-a582-46732536e5c5> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Cinémathèque royale de Belgique / Koninklijk Belgisch Filmarchief"@en,
+        "Cinémathèque royale de Belgique / Koninklijk Belgisch Filmarchief"@es,
+        "Cinémathèque royale de Belgique / Koninklijk Belgisch Filmarchief"@fr .
+
+<https://resource.fiafcore.org/797d62b1-4e78-4646-acbe-439dbbf69770> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Filmmuseum Düsseldorf"@en,
+        "Filmmuseum Düsseldorf"@es,
+        "Filmmuseum Düsseldorf"@fr .
+
+<https://resource.fiafcore.org/7a711928-8c5c-405c-a83c-592797a7a828> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Museo Nazionale del Cinema - Fondazione Maria Adriana Prolo"@en,
+        "Museo Nazionale del Cinema - Fondazione Maria Adriana Prolo"@es,
+        "Museo Nazionale del Cinema - Fondazione Maria Adriana Prolo"@fr .
+
+<https://resource.fiafcore.org/7b608f83-2dd8-4e7d-9c8a-5e91d58663d4> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Steven Spielberg Jewish Film Archive"@en,
+        "Steven Spielberg Jewish Film Archive"@es,
+        "Steven Spielberg Jewish Film Archive"@fr .
+
+<https://resource.fiafcore.org/7b7cf0a9-6af1-49df-9608-868b75c43aae> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "The Museum of Modern Art - Department of Film"@en,
+        "The Museum of Modern Art - Department of Film"@es,
+        "The Museum of Modern Art - Department of Film"@fr .
+
+<https://resource.fiafcore.org/7c73930d-061c-4326-8d0d-c1f2f5465ba0> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Euskadiko Filmategia Fundazioa / Fundacion Filmoteca Vasca"@en,
+        "Euskadiko Filmategia Fundazioa / Fundacion Filmoteca Vasca"@es,
+        "Euskadiko Filmategia Fundazioa / Fundacion Filmoteca Vasca"@fr .
+
+<https://resource.fiafcore.org/7cad0c5e-29e3-473d-8fa9-fd23cec52434> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Fondazione Cineteca di Bologna"@en,
+        "Fondazione Cineteca di Bologna"@es,
+        "Fondazione Cineteca di Bologna"@fr .
+
+<https://resource.fiafcore.org/7ce7cf81-922a-4c67-a0de-c85bd925c53a> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Fondation Cinémathèque Marocaine"@en,
+        "Fondation Cinémathèque Marocaine"@es,
+        "Fondation Cinémathèque Marocaine"@fr .
+
+<https://resource.fiafcore.org/87c826b4-1d9c-41bb-b7af-ef6344dd47d3> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Deutsche Kinemathek / Museum für Film und Fernsehen"@en,
+        "Deutsche Kinemathek / Museum für Film und Fernsehen"@es,
+        "Deutsche Kinemathek / Museum für Film und Fernsehen"@fr .
+
+<https://resource.fiafcore.org/8c9b7022-13ad-4681-aa9b-c0a941d6ebe2> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Fondazione Cineteca Italiana"@en,
+        "Fondazione Cineteca Italiana"@es,
+        "Fondazione Cineteca Italiana"@fr .
+
+<https://resource.fiafcore.org/8df3435c-474c-40bd-93ba-c302f5c8cbb5> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Gosfilmofond of Russia"@en,
+        "Gosfilmofond of Russia"@es,
+        "Gosfilmofond of Russia"@fr .
+
+<https://resource.fiafcore.org/8fc8e8e6-8da3-479f-8864-472e84ab4b32> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "National Film Archive of Japan (NFAJ)"@en,
+        "National Film Archive of Japan (NFAJ)"@es,
+        "National Film Archive of Japan (NFAJ)"@fr .
+
+<https://resource.fiafcore.org/90f96b32-d3d7-4466-a4bf-781cc4db32e3> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Bangladesh Film Archive"@en,
+        "Bangladesh Film Archive"@es,
+        "Bangladesh Film Archive"@fr .
+
+<https://resource.fiafcore.org/96806b35-604b-4e07-a30d-5a81e9250dff> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Cinemateca Uruguaya"@en,
+        "Cinemateca Uruguaya"@es,
+        "Cinemateca Uruguaya"@fr .
+
+<https://resource.fiafcore.org/996755c6-fcac-46f5-8dc5-e4eac1d6f5d0> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Fundación Patrimonio Fílmico Colombiano"@en,
+        "Fundación Patrimonio Fílmico Colombiano"@es,
+        "Fundación Patrimonio Fílmico Colombiano"@fr .
+
+<https://resource.fiafcore.org/9c1f5610-7cd0-4976-b0b2-f90d39b15f17> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "UC Berkeley Art Museum & Pacific Film Archive (BAMPFA)"@en,
+        "UC Berkeley Art Museum & Pacific Film Archive (BAMPFA)"@es,
+        "UC Berkeley Art Museum & Pacific Film Archive (BAMPFA)"@fr .
+
+<https://resource.fiafcore.org/9cebae97-0806-4795-9287-b9b66fcec0d0> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "IFI Irish Film Archive"@en,
+        "IFI Irish Film Archive"@es,
+        "IFI Irish Film Archive"@fr .
+
+<https://resource.fiafcore.org/a140933f-f8f8-4bf9-8b7c-80afd57f598c> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Tainiothiki Tis Ellados / Greek Film Archive"@en,
+        "Tainiothiki Tis Ellados / Greek Film Archive"@es,
+        "Tainiothiki Tis Ellados / Greek Film Archive"@fr .
+
+<https://resource.fiafcore.org/b42113b4-b526-4225-a709-34d49f7340d1> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "ECPAD - Établissement de communication et de production audiovisuelle de la Défense"@en,
+        "ECPAD - Établissement de communication et de production audiovisuelle de la Défense"@es,
+        "ECPAD - Établissement de communication et de production audiovisuelle de la Défense"@fr .
+
+<https://resource.fiafcore.org/b42d4e03-4362-4034-bc0b-2a2989ec6452> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Archivo Nacional de la Imagen y la Palabra - Sodre"@en,
+        "Archivo Nacional de la Imagen y la Palabra - Sodre"@es,
+        "Archivo Nacional de la Imagen y la Palabra - Sodre"@fr .
+
+<https://resource.fiafcore.org/b6240307-9d7d-4515-91b5-2c6cd4e19e32> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Filmoteca de la UNAM"@en,
+        "Filmoteca de la UNAM"@es,
+        "Filmoteca de la UNAM"@fr .
+
+<https://resource.fiafcore.org/b8b9fa1f-bddb-40e1-9fc3-ccc422f8b6a2> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Cinemateca de Cuba"@en,
+        "Cinemateca de Cuba"@es,
+        "Cinemateca de Cuba"@fr .
+
+<https://resource.fiafcore.org/b9f77526-0888-4b24-a86e-667910815675> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "DFF - Deutsches Filminstitut & Filmmuseum"@en,
+        "DFF - Deutsches Filminstitut & Filmmuseum"@es,
+        "DFF - Deutsches Filminstitut & Filmmuseum"@fr .
+
+<https://resource.fiafcore.org/c3937334-892d-4427-82d9-4234cc6dd664> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Library and Archives Canada/ Bibliothèque et archives Canada"@en,
+        "Library and Archives Canada/ Bibliothèque et archives Canada"@es,
+        "Library and Archives Canada/ Bibliothèque et archives Canada"@fr .
+
+<https://resource.fiafcore.org/c3e4481b-ecf5-4d9a-9ada-1c382627bffc> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Oleksandr Dovzhenko National Centre"@en,
+        "Oleksandr Dovzhenko National Centre"@es,
+        "Oleksandr Dovzhenko National Centre"@fr .
+
+<https://resource.fiafcore.org/c51a203f-ee6d-46a9-8407-9da202ac218a> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "North West Film Archive"@en,
+        "North West Film Archive"@es,
+        "North West Film Archive"@fr .
+
+<https://resource.fiafcore.org/c70cf2b9-4db4-44ba-9707-c5aa5f011136> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Österreichisches Filmmuseum / Austrian Film Museum"@en,
+        "Österreichisches Filmmuseum / Austrian Film Museum"@es,
+        "Österreichisches Filmmuseum / Austrian Film Museum"@fr .
+
+<https://resource.fiafcore.org/d040754f-4610-4c48-8718-ec1bfc40b405> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Filmoteca Vaticana"@en,
+        "Filmoteca Vaticana"@es,
+        "Filmoteca Vaticana"@fr .
+
+<https://resource.fiafcore.org/d11b1f84-b2dd-4876-adb3-80e745f1faa1> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Cineteca Nacional"@en,
+        "Cineteca Nacional"@es,
+        "Cineteca Nacional"@fr .
+
+<https://resource.fiafcore.org/d200b602-95fe-4541-a718-7d3a50a5efc6> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Jugoslovenska Kinoteka"@en,
+        "Jugoslovenska Kinoteka"@es,
+        "Jugoslovenska Kinoteka"@fr .
+
+<https://resource.fiafcore.org/d225f54c-ba03-429f-8ffe-8513369b66c6> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Fondazione Centro Sperimentale di Cinematografia - Cineteca Nazionale"@en,
+        "Fondazione Centro Sperimentale di Cinematografia - Cineteca Nazionale"@es,
+        "Fondazione Centro Sperimentale di Cinematografia - Cineteca Nazionale"@fr .
+
+<https://resource.fiafcore.org/d378ef43-6fb1-476b-a46e-91d50923bfa8> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Cinémathèque de la Ville de Luxembourg"@en,
+        "Cinémathèque de la Ville de Luxembourg"@es,
+        "Cinémathèque de la Ville de Luxembourg"@fr .
+
+<https://resource.fiafcore.org/d3ceba31-ab76-4569-9b88-e9529fbc3f90> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Kansallinen Audiovisuaalinen Instituutti / National Audiovisual Institute"@en,
+        "Kansallinen Audiovisuaalinen Instituutti / National Audiovisual Institute"@es,
+        "Kansallinen Audiovisuaalinen Instituutti / National Audiovisual Institute"@fr .
+
+<https://resource.fiafcore.org/d5db021b-f756-49c5-8b15-79287cece2e7> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Cinémathèque suisse"@en,
+        "Cinémathèque suisse"@es,
+        "Cinémathèque suisse"@fr .
+
+<https://resource.fiafcore.org/d61d58b2-f88b-4aa2-b75b-d2de7e0f4a9f> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Joson Minjujui Inmingonghwaguk Kugga Yonghwa Munhongo / National Film Archive of DPRK"@en,
+        "Joson Minjujui Inmingonghwaguk Kugga Yonghwa Munhongo / National Film Archive of DPRK"@es,
+        "Joson Minjujui Inmingonghwaguk Kugga Yonghwa Munhongo / National Film Archive of DPRK"@fr .
+
+<https://resource.fiafcore.org/d7c5fbc0-605a-4be4-b613-a2cb5bab721e> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "La Cineteca del Friuli"@en,
+        "La Cineteca del Friuli"@es,
+        "La Cineteca del Friuli"@fr .
+
+<https://resource.fiafcore.org/d801e93c-8e9c-42f5-84ff-ac6e78f55e50> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "UCLA Film & Television Archive"@en,
+        "UCLA Film & Television Archive"@es,
+        "UCLA Film & Television Archive"@fr .
+
+<https://resource.fiafcore.org/d91b6df0-b55b-4c76-8304-c439d27c7dac> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Cinémathèque française / Musée du cinéma"@en,
+        "Cinémathèque française / Musée du cinéma"@es,
+        "Cinémathèque française / Musée du cinéma"@fr .
+
+<https://resource.fiafcore.org/d9b23927-9983-4270-891c-d5e83fbf59b5> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "BFI National Archive"@en,
+        "BFI National Archive"@es,
+        "BFI National Archive"@fr .
+
+<https://resource.fiafcore.org/df568772-83c5-404d-9f1c-400d19a468c3> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Centre national du cinéma et de l’image animée - Direction du patrimoine cinématographique"@en,
+        "Centre national du cinéma et de l’image animée - Direction du patrimoine cinématographique"@es,
+        "Centre national du cinéma et de l’image animée - Direction du patrimoine cinématographique"@fr .
+
+<https://resource.fiafcore.org/df627dc4-e014-4cf4-9aea-cd522cc519ae> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Bundesarchiv"@en,
+        "Bundesarchiv"@es,
+        "Bundesarchiv"@fr .
+
+<https://resource.fiafcore.org/e19c1cf8-cd69-4e73-bc1a-d31201ca4666> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Cinemateca Brasileira"@en,
+        "Cinemateca Brasileira"@es,
+        "Cinemateca Brasileira"@fr .
+
+<https://resource.fiafcore.org/e20bb094-623d-441f-b517-08cd6a0b44d7> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Filmoteca Española"@en,
+        "Filmoteca Española"@es,
+        "Filmoteca Española"@fr .
+
+<https://resource.fiafcore.org/e4f02377-231e-47f7-89eb-e0e3e7b46c2d> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Kinoteka na Republika Severna Makedonija / Cinematheque of Republic of North Macedonia"@en,
+        "Kinoteka na Republika Severna Makedonija / Cinematheque of Republic of North Macedonia"@es,
+        "Kinoteka na Republika Severna Makedonija / Cinematheque of Republic of North Macedonia"@fr .
+
+<https://resource.fiafcore.org/e5f8eb5e-f03b-4b07-84d9-214f9c521e87> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Arkivi Qendror Shteteror I Filmit (AQSHF) /  The Albanian National Film Archive"@en,
+        "Arkivi Qendror Shteteror I Filmit (AQSHF) /  The Albanian National Film Archive"@es,
+        "Arkivi Qendror Shteteror I Filmit (AQSHF) /  The Albanian National Film Archive"@fr .
+
+<https://resource.fiafcore.org/e7172c01-8cbd-4577-8398-9ce665d778d5> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Imperial War Museums - Film Archive"@en,
+        "Imperial War Museums - Film Archive"@es,
+        "Imperial War Museums - Film Archive"@fr .
+
+<https://resource.fiafcore.org/ea32d74a-35ca-4a08-82f0-608d609884bd> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Academy Film Archive"@en,
+        "Academy Film Archive"@es,
+        "Academy Film Archive"@fr .
+
+<https://resource.fiafcore.org/f1b97bb5-2a4b-4f42-9fa1-ac9c0dd8486e> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Filmoteka Narodowa - Instytut Audiowizualny (FINA)"@en,
+        "Filmoteka Narodowa - Instytut Audiowizualny (FINA)"@es,
+        "Filmoteka Narodowa - Instytut Audiowizualny (FINA)"@fr .
+
+<https://resource.fiafcore.org/f82cabca-66cc-4d6f-849e-629d43658cf4> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Sinema-TV Enstitüsü / Turkish Film & TV Institute"@en,
+        "Sinema-TV Enstitüsü / Turkish Film & TV Institute"@es,
+        "Sinema-TV Enstitüsü / Turkish Film & TV Institute"@fr .
+
+<https://resource.fiafcore.org/fafb665f-4ead-4fd8-b023-df887ba1e7fb> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Eye Filmmuseum"@en,
+        "Eye Filmmuseum"@es,
+        "Eye Filmmuseum"@fr .
+
+<https://resource.fiafcore.org/fcc5d495-9a2d-4f4d-9ce6-45b95e795398> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Filmoteca de Catalunya - ICEC"@en,
+        "Filmoteca de Catalunya - ICEC"@es,
+        "Filmoteca de Catalunya - ICEC"@fr .
+
+<https://resource.fiafcore.org/ff031112-7e22-4e9b-bd16-252d9511360b> a <https://ontology.fiafcore.org/CorporateBody> ;
+    rdfs:label "Slovak Film Institute"@en,
+        "Slovak Film Institute"@es,
+        "Slovak Film Institute"@fr .
