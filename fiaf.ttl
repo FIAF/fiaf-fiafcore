@@ -5,7 +5,4 @@
   a fiaf:CorporateBody ;
   rdfs:label "International Federation of Film Archives"@en, 
     "Federación Internacional de Archivos Fílmicos"@es, 
-    "Fédération internationale des archives du film"@fr ;
-  fiaf:hasEvent [
-    fiaf:hasEventDate "1938"^^xsd:gYear
-  ] .
+    "Fédération internationale des archives du film"@fr .
