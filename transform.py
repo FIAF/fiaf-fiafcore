@@ -23,7 +23,7 @@ def wikidata_identifier(f, w):
 
 # load local turtle files.
 
-g = rdflib.Graph()
+g = rdflib.Graph(identifier=rdflib.URIRef('https://graph.fiafcore.org/graphs/fiaf'))
 g.parse(pathlib.Path.cwd() / 'fiaf.ttl')
 
 # pull wikidata identifiers from mongo atlas.
@@ -45,8 +45,8 @@ for s,p,o in g.triples((None, rdflib.RDF.type, rdflib.URIRef('https://ontology.f
                 wiki = pathlib.Path(wiki).name
                 g += wikidata_identifier(fiaf, wiki)
 
-# add ontology
+# export graph to named quads for import.
 
-# dump turtle file, bonus points for insert sparql direct to graphdb as named graph.
-
-# name for graph is https://graph.fiafcore.org/graphs/fiaf
+output = rdflib.Dataset()
+output.add_graph(g)
+output.serialize(destination=pathlib.Path.cwd() / 'fiaf.nq', format='nquads')
