@@ -24,7 +24,8 @@ def wikidata_identifier(f, w):
 # load local turtle files.
 
 g = rdflib.Graph(identifier=rdflib.URIRef('https://graph.fiafcore.org/graphs/fiaf'))
-g.parse(pathlib.Path.cwd() / 'fiaf.ttl')
+for data in ['fiaf.ttl', 'members.ttl', 'associates.ttl']:
+    g.parse(pathlib.Path.cwd() / data)
 
 # pull wikidata identifiers from mongo atlas.
 
