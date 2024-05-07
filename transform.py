@@ -6,7 +6,7 @@ import os
 import pathlib
 import pymongo
 import rdflib
-import ssl
+import requests
 
 def wikidata_identifier(f, w):
 
@@ -23,9 +23,9 @@ def wikidata_identifier(f, w):
 
 # load local turtle files.
 
-g = rdflib.Graph(identifier=rdflib.URIRef('https://graph.fiafcore.org/graphs/fiaf'))
-for data in ['fiaf.ttl', 'members.ttl', 'associates.ttl']:
-    g.parse(pathlib.Path.cwd() / data)
+g = rdflib.Graph()
+for x in ['fiaf.ttl', 'members.ttl', 'associates.ttl']:
+    g.parse(pathlib.Path.cwd() / x)
 
 # pull wikidata identifiers from mongo atlas.
 
@@ -46,8 +46,26 @@ for s,p,o in g.triples((None, rdflib.RDF.type, rdflib.URIRef('https://ontology.f
                 wiki = pathlib.Path(wiki).name
                 g += wikidata_identifier(fiaf, wiki)
 
-# export graph to named quads for import.
+# skolemize graph.
 
-output = rdflib.Dataset()
-output.add_graph(g)
-output.serialize(destination=pathlib.Path.cwd() / 'fiaf.nq', format='nquads')
+g = g.skolemize()
+
+# connection details for graphdb.
+
+graph_user, graph_pass = os.getenv('graph_username'), os.getenv('graph_password')
+endpoint = 'http://37.27.26.36:7200/repositories/fiafkg/statements'
+headers = {'Content-Type': 'application/sparql-update'}
+
+# remove existing triples.
+
+query = ''' delete {?s ?p ?o } where {?s ?p ?o} '''
+r = requests.post(endpoint, headers=headers, data=query, auth=(graph_user, graph_pass))
+if r.status_code != 204:
+    raise Exception('Problem sending payload.')
+
+# write new triples.
+
+query = ''' insert data { '''+g.serialize(format='nt')+''' } '''
+r = requests.post(endpoint, headers=headers, data=query.encode('utf-8'), auth=(graph_user, graph_pass))
+if r.status_code != 204:
+    raise Exception('Problem sending payload.')
