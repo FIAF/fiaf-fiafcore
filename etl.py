@@ -58,14 +58,22 @@ headers = {'Content-Type': 'application/sparql-update'}
 
 # remove existing triples.
 
-query = ''' delete {?s ?p ?o } where {?s ?p ?o} '''
+query = ''' 
+    delete {
+        graph <https://graph.fiafcore.org/graph/fiaf> { 
+            ?s ?p ?o } } 
+    where {
+        graph <https://graph.fiafcore.org/graph/fiaf> {
+            ?s ?p ?o } }
+    '''
+
 r = requests.post(endpoint, headers=headers, data=query, auth=(graph_user, graph_pass))
 if r.status_code != 204:
     raise Exception('Problem sending payload.')
 
 # write new triples.
 
-query = ''' insert data { '''+g.serialize(format='nt')+''' } '''
+query = ''' insert data { graph <https://graph.fiafcore.org/graph/fiaf> { '''+g.serialize(format='nt')+''' } } '''
 r = requests.post(endpoint, headers=headers, data=query.encode('utf-8'), auth=(graph_user, graph_pass))
 if r.status_code != 204:
     raise Exception('Problem sending payload.')
