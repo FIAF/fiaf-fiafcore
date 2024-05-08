@@ -1,12 +1,15 @@
 # FIAF → FIAFcore
 FIAF data conformed to FIAFcore.
 
-Datasets:     
+**Datasets**
+
 [FIAF](https://www.fiafnet.org/)     
 [FIAF Members](https://www.fiafnet.org/pages/Community/Members.html)      
 [FIAF Associates](https://www.fiafnet.org/pages/Community/Associates.html)  
 
-The transformation process expects an `.env` file
+**Process**
+
+The etl process expects an `.env` file
 
 ```sh
 atlas_username= # Mongo Atlas username
@@ -23,5 +26,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 python etl.py
 ```
+
+**License**
 
 Data is licensed as [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Code is MIT.
