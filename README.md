@@ -6,6 +6,7 @@ FIAF data conformed to FIAFcore.
 [FIAF](https://www.fiafnet.org/)     
 [FIAF Members](https://www.fiafnet.org/pages/Community/Members.html)      
 [FIAF Associates](https://www.fiafnet.org/pages/Community/Associates.html)  
+[FIAF Congresses](https://www.fiafnet.org/pages/History/Archival-Documents-about-FIAF-Congresses.html)
 
 **Process**
 

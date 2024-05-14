@@ -1,0 +1,676 @@
+@prefix fiaf: <https://ontology.fiafcore.org/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://resource.fiafcore.org/0552c58a-dfd2-42ed-9ee7-0e854c406566> a fiaf:Event ;
+    rdfs:label "1979 FIAF Congress"@en ;
+    dc:description "Le Cinéma indépendant et d'avant-garde à la fin du muet" ;
+    fiaf:hasEventDate "1979-05-30",
+        "1979-06-01" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/6906d2da-6df5-4338-ba19-5adff7804b9d> .
+
+<https://resource.fiafcore.org/075c6f17-1ee1-4e28-b917-31d32cf047ae> a fiaf:Event ;
+    rdfs:label "2011 FIAF Congress"@en ;
+    dc:description "Indigenous Film Collections in Africa and the World" ;
+    fiaf:hasEventDate "2011-04-11",
+        "2011-04-16" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/f1621e39-38ba-473f-86ec-7d28782dbae6> .
+
+<https://resource.fiafcore.org/0894cc01-8251-40f1-8743-2395eb60ddb3> a fiaf:Event ;
+    rdfs:label "1960 FIAF Congress"@en ;
+    fiaf:hasEventDate "1960-06-11",
+        "1960-06-13" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/84150bce-b446-4e86-a56a-d6fb40a5176c> .
+
+<https://resource.fiafcore.org/08bd9c36-12c4-4201-84db-4df5b93ff249> a fiaf:Event ;
+    rdfs:label "1980 FIAF Congress"@en ;
+    dc:description "Post-War Animation (1945-1959) / Problem of Selection in Film Archives" ;
+    fiaf:hasEventDate "1980-06-18",
+        "1980-06-23" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/126931cb-cab1-4dbc-8419-78a2fcfec071> .
+
+<https://resource.fiafcore.org/08d60eee-8f89-4665-823f-33c08b3136e0> a fiaf:Event ;
+    rdfs:label "1955 FIAF Congress"@en ;
+    fiaf:hasEventDate "1955-09-26",
+        "1955-09-30" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/2f94e0fb-86b6-4e53-8cf1-27577c3eb345> .
+
+<https://resource.fiafcore.org/090c532d-93e3-4504-a8b2-a145a9e45f2b> a fiaf:Event ;
+    rdfs:label "1995 FIAF Congress"@en ;
+    dc:description "Learning from the History of FIAF / New Technologies for Preservation / The Great Challenges, etc" ;
+    fiaf:hasEventDate "1995-04-20",
+        "1995-04-30" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/3f6e917a-8396-463e-8eca-d421ceaab7fc> .
+
+<https://resource.fiafcore.org/0ee9a594-1afb-4b51-8c84-f13eb10b8460> a fiaf:Event ;
+    rdfs:label "1992 FIAF Congress"@en ;
+    dc:description "Programming in Film Archives" ;
+    fiaf:hasEventDate "1992-04-22",
+        "1992-04-27" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/ed05d29f-9db9-4b62-b076-3251199c7f6f> .
+
+<https://resource.fiafcore.org/1bcc9778-c1f3-4e8c-8545-17fe1c33a3cd> a fiaf:Event ;
+    rdfs:label "1982 FIAF Congress"@en ;
+    dc:description "El Cine olvidado de America Latina / Which Future for the Past? Keeping Cinema Alive" ;
+    fiaf:hasEventDate "1982-06-04",
+        "1982-06-13" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/21d8918d-1f8c-4e23-aa8b-ed043ea7edd1> .
+
+<https://resource.fiafcore.org/1bd47e05-b47c-42f2-ad37-cc017f86eea8> a fiaf:Event ;
+    rdfs:label "1996 FIAF Congress"@en ;
+    dc:description "The Rights Thing" ;
+    fiaf:hasEventDate "1996-04-16",
+        "1996-04-22" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/af250141-c74a-4632-a4db-c68ee32d7deb> .
+
+<https://resource.fiafcore.org/1c0583e6-b252-4fd3-bad5-38360fa0681a> a fiaf:Event ;
+    rdfs:label "1986 FIAF Congress"@en ;
+    dc:description "Computer Applications in Film Archives / Technical and Ethical Problems of Film Restoration" ;
+    fiaf:hasEventDate "1986-04-14",
+        "1986-04-19" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/87f83330-1088-4f78-ad1b-990c9f83c53f> .
+
+<https://resource.fiafcore.org/1d8ec89c-2f12-4c9c-9d88-8f358375c0df> a fiaf:Event ;
+    rdfs:label "1975 FIAF Congress"@en ;
+    dc:description "Pastrone and Griffith" ;
+    fiaf:hasEventDate "1975-06-02",
+        "1975-06-05" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/53faa0cd-ae33-4ff5-b0d2-5a6838111484> .
+
+<https://resource.fiafcore.org/1ddd9931-cf47-4199-86b6-a5a273caa5c7> a fiaf:Event ;
+    rdfs:label "2018 FIAF Congress"@en ;
+    dc:description "Sharing" ;
+    fiaf:hasEventDate "2018-04-22",
+        "2018-04-27" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/07ff87b1-1721-4a8f-9eeb-304f2a58590a> .
+
+<https://resource.fiafcore.org/20356777-09eb-4c45-a215-823c3bc2b76a> a fiaf:Event ;
+    rdfs:label "1997 FIAF Congress"@en ;
+    dc:description "Archiving Amateur Film" ;
+    fiaf:hasEventDate "1997-04-19",
+        "1997-04-26" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/a7faa03c-3870-47dd-81e1-c3b78cc3f383> .
+
+<https://resource.fiafcore.org/21177823-f78e-4fbb-8d2a-0c52d984af40> a fiaf:Event ;
+    rdfs:label "2001 FIAF Congress"@en ;
+    dc:description "A Borrowed Film Heritage" ;
+    fiaf:hasEventDate "2001-04-20",
+        "2001-04-29" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/6f8c608e-7720-4a00-8337-c069a731f923> .
+
+<https://resource.fiafcore.org/21cd67f7-49f8-4bc9-88f7-2dde40597872> a fiaf:Event ;
+    rdfs:label "1987 FIAF Congress"@en ;
+    dc:description "Archiving the Audiovisual Heritage (second Joint Technical Symposium, in collaboration with FIAT and IASA)" ;
+    fiaf:hasEventDate "1987-05-17",
+        "1987-05-24" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/9659e433-6e00-4f89-bd71-e9175317ea86> .
+
+<https://resource.fiafcore.org/273a666a-5282-462f-8f52-29278da3b119> a fiaf:Event ;
+    rdfs:label "2009 FIAF Congress"@en ;
+    dc:description "The Cinematheques in Search of Their New Audiences" ;
+    fiaf:hasEventDate "2009-05-22",
+        "2009-05-30" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/da516c37-497d-4a38-91ba-0fd41ec4b35b> .
+
+<https://resource.fiafcore.org/2ed71033-5483-492f-8400-9a3447b86562> a fiaf:Event ;
+    rdfs:label "1948 FIAF Congress"@en ;
+    fiaf:hasEventDate "1948-09-13",
+        "1948-09-15" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/d852e1c7-ef27-4b6f-9980-09df0445bd26> .
+
+<https://resource.fiafcore.org/2fea3f85-751f-4904-aff0-f2792f39024c> a fiaf:Event ;
+    rdfs:label "2014 FIAF Congress"@en ;
+    dc:description "World War I – A Hundred Years On" ;
+    fiaf:hasEventDate "2014-05-04",
+        "2014-05-10" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/867451fd-0437-43df-ad46-c68bc5c75c78> .
+
+<https://resource.fiafcore.org/3203f3fc-9106-4a7e-a93c-51a43fb206a1> a fiaf:Event ;
+    rdfs:label "1973 FIAF Congress"@en ;
+    dc:description "S.M. Eisenstein & V.I. Pudovkin" ;
+    fiaf:hasEventDate "1973-06-07",
+        "1973-06-12" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/f041bf5a-8004-4b50-bf8d-ff67b91d9053> .
+
+<https://resource.fiafcore.org/39d84769-6ab7-4e88-a3bf-d7320d0a8afb> a fiaf:Event ;
+    rdfs:label "2015 FIAF Congress"@en ;
+    dc:description "Where Are We Heading?" ;
+    fiaf:hasEventDate "2015-04-12",
+        "2015-04-18" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/0d383f3f-a675-4b91-bae9-e786d768033b> .
+
+<https://resource.fiafcore.org/45df194f-86f2-4ff4-a1b1-39380c2a8ec4> a fiaf:Event ;
+    rdfs:label "1958 FIAF Congress"@en ;
+    fiaf:hasEventDate "1958-10-20",
+        "1958-10-26" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/07ff87b1-1721-4a8f-9eeb-304f2a58590a> .
+
+<https://resource.fiafcore.org/46087974-4597-4002-b26f-b2dc8fd00deb> a fiaf:Event ;
+    rdfs:label "1957 FIAF Congress"@en ;
+    fiaf:hasEventDate "1957-10-18",
+        "1957-10-28" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/02118730-d305-42ac-b9c2-470ad7d37c93> .
+
+<https://resource.fiafcore.org/46c70654-b640-4b8f-8311-99e26e81122b> a fiaf:Event ;
+    rdfs:label "1998 FIAF Congress"@en ;
+    dc:description "Digitalisation of Archive Materials" ;
+    fiaf:hasEventDate "1998-04-21",
+        "1998-04-26" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/07ff87b1-1721-4a8f-9eeb-304f2a58590a> .
+
+<https://resource.fiafcore.org/4b5889ae-f12f-4c7c-9a09-060b1911c333> a fiaf:Event ;
+    rdfs:label "1983 FIAF Congress"@en ;
+    dc:description "Film Archiving in the 21st Century (first Joint Technical Symposium, in collaboration with FIAT)" ;
+    fiaf:hasEventDate "1983-05-30",
+        "1983-06-04" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/250f5e43-9fb4-4a3e-951f-3cc8b61f407b> .
+
+<https://resource.fiafcore.org/500a8230-f232-486d-88b6-13ec30386cf1> a fiaf:Event ;
+    rdfs:label "1984 FIAF Congress"@en ;
+    dc:description "Film and Cinema in Central Europe (1895-1914) / The Importance of Non-Industrial Cinema within Our Cultural Heritage" ;
+    fiaf:hasEventDate "1984-04-03",
+        "1984-04-12" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/64a5bc02-470f-40db-a751-3665ee43c635> .
+
+<https://resource.fiafcore.org/50aa3333-dc60-48be-8ae6-28383686c232> a fiaf:Event ;
+    rdfs:label "1939 FIAF Congress"@en ;
+    fiaf:hasEventDate "1939-07-25",
+        "1939-07-26" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/a7b00394-5ce4-49ee-8af5-50ec6400fa1a> .
+
+<https://resource.fiafcore.org/50c9a4b9-9762-4d52-81cc-db994722fb46> a fiaf:Event ;
+    rdfs:label "2020 FIAF Congress"@en ;
+    dc:description "Prevention and Management of Natural and Human Desasters in Film Archives." ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/7abb9459-0af9-4c9c-843a-bb9a76122bd8> .
+
+<https://resource.fiafcore.org/534ebe01-a1e4-4f4b-8675-7ba5f3e3242b> a fiaf:Event ;
+    rdfs:label "1959 FIAF Congress"@en ;
+    fiaf:hasEventDate "1959-09-20",
+        "1959-09-27" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/250f5e43-9fb4-4a3e-951f-3cc8b61f407b> .
+
+<https://resource.fiafcore.org/5c0f78c5-4bf1-4f0f-bb3c-50a583d8f566> a fiaf:Event ;
+    rdfs:label "1974 FIAF Congress"@en ;
+    dc:description "Film Archives and Audiovisual Techniques / The Methodology of Film History" ;
+    fiaf:hasEventDate "1974-05-20",
+        "1974-05-25" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/acdc82df-086c-46da-aeeb-e32ded0da1f3> .
+
+<https://resource.fiafcore.org/5f1a9ba7-f270-4a0d-a0fc-0b88b0614584> a fiaf:Event ;
+    rdfs:label "1962 FIAF Congress"@en ;
+    fiaf:hasEventDate "1962-06-20",
+        "1962-06-24" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/097a9a0c-1d55-4e14-b20c-06138d5afa3e> .
+
+<https://resource.fiafcore.org/60ecb255-80fc-4c9f-808e-dcd630db31b2> a fiaf:Event ;
+    rdfs:label "2016 FIAF Congress"@en ;
+    dc:description "New Life for Cinema’s Past" ;
+    fiaf:hasEventDate "2016-06-24",
+        "2016-06-29" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/bb065a4d-5599-4dd9-abe1-59d40ae6dbfc> .
+
+<https://resource.fiafcore.org/61cc13e8-0f25-4961-adc9-57c472b18e0f> a fiaf:Event ;
+    rdfs:label "1964 FIAF Congress"@en ;
+    fiaf:hasEventDate "1964-06-15",
+        "1964-06-21" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/f041bf5a-8004-4b50-bf8d-ff67b91d9053> .
+
+<https://resource.fiafcore.org/6ac78e3a-a71f-4ab1-ab84-fd1d36b997a2> a fiaf:Event ;
+    rdfs:label "1991 FIAF Congress"@en ;
+    dc:description "The Place of Video in Film Archives / Film Archives and Independent Cinema" ;
+    fiaf:hasEventDate "1991-04-15",
+        "1991-04-20" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/4baa7f72-fa40-4cf9-898a-8c8839108457> .
+
+<https://resource.fiafcore.org/6b39f12e-9a29-4b98-b875-aceeb566dd50> a fiaf:Event ;
+    rdfs:label "2003 FIAF Congress"@en ;
+    dc:description "Fading Colour Film - Preserve and Restore" ;
+    fiaf:hasEventDate "2003-05-30",
+        "2003-06-07" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/dba84e01-35cc-4943-a36c-32d495be2e70> .
+
+<https://resource.fiafcore.org/6e8a8b0f-1a58-4b6e-bccd-074385f15c16> a fiaf:Event ;
+    rdfs:label "1970 FIAF Congress"@en ;
+    fiaf:hasEventDate "1970-05-26",
+        "1970-05-29" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/ab080cc5-0e0e-4273-93a9-08a919d173ae> .
+
+<https://resource.fiafcore.org/6edda35b-a60e-41ed-b3d9-f7f234ffc09c> a fiaf:Event ;
+    rdfs:label "1951 FIAF Congress"@en ;
+    fiaf:hasEventDate "1951-07-11",
+        "1951-07-16" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/d1625d76-4d33-4458-8d08-200bea0915e0> .
+
+<https://resource.fiafcore.org/70c22cdf-0c7b-43df-937f-d6d985e3dbd8> a fiaf:Event ;
+    rdfs:label "2022 FIAF Congress"@en ;
+    dc:description "Archiving, Preserving, Digitizing, and Sharing ‘Non-feature’ Film Collections" ;
+    fiaf:hasEventDate "2022-04-24",
+        "2022-04-29" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/7f6ead71-b25a-4dc7-a7d5-69533608b73f> .
+
+<https://resource.fiafcore.org/7761f5fe-d915-452b-b332-d6360c0846b6> a fiaf:Event ;
+    rdfs:label "1949 FIAF Congress"@en ;
+    fiaf:hasEventDate "1949-11-23",
+        "1949-11-26" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/097a9a0c-1d55-4e14-b20c-06138d5afa3e> .
+
+<https://resource.fiafcore.org/79265329-504a-48ad-80dc-da2ed8542138> a fiaf:Event ;
+    rdfs:label "2017 FIAF Congress"@en ;
+    dc:description "Spanish-language Cinema in Los Angeles" ;
+    fiaf:hasEventDate "2017-04-28",
+        "2017-05-03" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/3f6e917a-8396-463e-8eca-d421ceaab7fc> .
+
+<https://resource.fiafcore.org/7cf641d5-66db-4d58-9e6a-2f992d8b5f83> a fiaf:Event ;
+    rdfs:label "1969 FIAF Congress"@en ;
+    fiaf:hasEventDate "1969-05-21",
+        "1969-05-24" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/a7b00394-5ce4-49ee-8af5-50ec6400fa1a> .
+
+<https://resource.fiafcore.org/8460d7ae-8944-417d-8dd9-32a0789e911c> a fiaf:Event ;
+    rdfs:label "1972 FIAF Congress"@en ;
+    dc:description "Film Archives and Film Historical Research" ;
+    fiaf:hasEventDate "1972-05-31",
+        "1972-06-03" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/8ce138d6-1190-43ac-80ca-318c236db229> .
+
+<https://resource.fiafcore.org/8c7e955b-6d40-49e2-8f44-d76f3af72aeb> a fiaf:Event ;
+    rdfs:label "1966 FIAF Congress"@en ;
+    fiaf:hasEventDate "1966-05-30",
+        "1966-06-05" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/4b2b93cb-e3c3-4afc-b65a-076a7ebd9df2> .
+
+<https://resource.fiafcore.org/902484bf-c784-404f-9a43-b13bb51ca542> a fiaf:Event ;
+    rdfs:label "1961 FIAF Congress"@en ;
+    fiaf:hasEventDate "1961-10-11",
+        "1961-10-15" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/7f6ead71-b25a-4dc7-a7d5-69533608b73f> .
+
+<https://resource.fiafcore.org/923a5107-b97d-490b-b0f8-c1cb00ebc658> a fiaf:Event ;
+    rdfs:label "1976 FIAF Congress"@en ;
+    dc:description "El Cine latinoamericano, realidad o ficción" ;
+    fiaf:hasEventDate "1976-05-24",
+        "1976-05-27" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/e354e4be-a18e-4f75-9639-ad5be3e9c7e0> .
+
+<https://resource.fiafcore.org/92b5c277-df12-44b7-960f-85c29c15ca99> a fiaf:Event ;
+    rdfs:label "2019 FIAF Congress"@en ;
+    dc:description "Past and Future of Film Archives" ;
+    fiaf:hasEventDate "2019-04-07",
+        "2019-04-13" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/6906d2da-6df5-4338-ba19-5adff7804b9d> .
+
+<https://resource.fiafcore.org/99a32dc9-ae6e-4140-9f93-d71f0043a0fb> a fiaf:Event ;
+    rdfs:label "2013 FIAF Congress"@en ;
+    dc:description "Multiversions" ;
+    fiaf:hasEventDate "2013-04-21",
+        "2013-04-27" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/08aab8fa-f26c-4382-85e3-0f87a47ba6c2> .
+
+<https://resource.fiafcore.org/9a03e3fb-d5f2-4b6e-a4f0-9bce0f727de5> a fiaf:Event ;
+    rdfs:label "2007 FIAF Congress"@en ;
+    dc:description "Archival Study of Short-lived Formats" ;
+    fiaf:hasEventDate "2007-04-07",
+        "2007-04-12" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/3949a8cb-1c69-424e-9ceb-6824c844838d> .
+
+<https://resource.fiafcore.org/9f3ec831-6d48-4cef-ba85-a258d3a893f2> a fiaf:Event ;
+    rdfs:label "2002 FIAF Congress"@en ;
+    dc:description "Yesterday, Today and Tomorrow" ;
+    fiaf:hasEventDate "2002-04-21",
+        "2002-04-27" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/51476835-3935-47d2-ac33-8a6c83ab1407> .
+
+<https://resource.fiafcore.org/9fbdbab3-1328-4332-b81d-8f02e987f855> a fiaf:Event ;
+    rdfs:label "1956 FIAF Congress"@en ;
+    fiaf:hasEventDate "1956-09-09",
+        "1956-09-15" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/b7d69bb8-daa5-4231-8d04-b60d3e57dc6e> .
+
+<https://resource.fiafcore.org/a1a5898a-fa47-4dbf-939b-2bb9aaedf6f0> a fiaf:Event ;
+    rdfs:label "2005 FIAF Congress"@en ;
+    dc:description "How Do We Visualise Culture? Representations of Culture in the Light of Ethnographic Film" ;
+    fiaf:hasEventDate "2005-06-05",
+        "2005-06-12" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/ccd62cd5-fedd-4fd3-af20-f9d851b2dea1> .
+
+<https://resource.fiafcore.org/a3e60f51-e3f8-45f1-9ca1-45646028f0b6> a fiaf:Event ;
+    rdfs:label "1981 FIAF Congress"@en ;
+    dc:description "The Preservation of Color Films / L'Europe des téléphones blancs (1935-1940)" ;
+    fiaf:hasEventDate "1981-04-30",
+        "1981-05-09" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/354d9be2-2e72-47c2-a0e3-20b457fd6267> .
+
+<https://resource.fiafcore.org/a4e2c294-83f1-4ef3-a61a-749c60315e9e> a fiaf:Event ;
+    rdfs:label "1985 FIAF Congress"@en ;
+    dc:description "The Technicolor Process of Color Photography / Slapstick Symposium" ;
+    fiaf:hasEventDate "1985-04-26",
+        "1985-05-04" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/a7b00394-5ce4-49ee-8af5-50ec6400fa1a> .
+
+<https://resource.fiafcore.org/a7d83dd5-3aa3-4e53-983b-f9d89cbf711e> a fiaf:Event ;
+    rdfs:label "1963 FIAF Congress"@en ;
+    fiaf:hasEventDate "1963-06-18",
+        "1963-06-22" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/b7a4d267-7fcc-4f53-9e20-1d9ba8a36618> .
+
+<https://resource.fiafcore.org/a93874b3-14a6-4b61-b32d-52ac0fffb3a1> a fiaf:Event ;
+    rdfs:label "1965 FIAF Congress"@en ;
+    fiaf:hasEventDate "1965-06-21",
+        "1965-06-27" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/b27c3f37-47b2-41ad-b338-e0c1eb55a65b> .
+
+<https://resource.fiafcore.org/ab7e0145-ccf3-4356-987d-2e7c444c929f> a fiaf:Event ;
+    rdfs:label "1989 FIAF Congress"@en ;
+    dc:description "To Preserve and to Show (organized by the Cinemteca Portuguesa)" ;
+    fiaf:hasEventDate "1989-04-16",
+        "1989-04-26" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/d8966136-ac23-4ba2-9189-e46adee3356b> .
+
+<https://resource.fiafcore.org/b09bf17a-c9a7-4add-a79a-476ff4816dfd> a fiaf:Event ;
+    rdfs:label "1968 FIAF Congress"@en ;
+    fiaf:hasEventDate "1968-05-23",
+        "1968-05-29" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/c61c83da-93a4-4de5-8838-232c4e239d3c> .
+
+<https://resource.fiafcore.org/b2e902a2-d0d1-4291-98eb-2c404105ad1f> a fiaf:Event ;
+    rdfs:label "1993 FIAF Congress"@en ;
+    dc:description "Newsreels in Film Archives" ;
+    fiaf:hasEventDate "1993-05-27",
+        "1993-06-03" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/384a385d-b782-49cc-9b35-4edd947b0033> .
+
+<https://resource.fiafcore.org/b33bbe55-aa47-4604-8039-6bd6185734fa> a fiaf:Event ;
+    rdfs:label "2006 FIAF Congress"@en ;
+    dc:description "Film Archives in Transition" ;
+    fiaf:hasEventDate "2006-04-20",
+        "2006-04-29" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/784ef6ac-5e9d-4db7-ba89-75cd50db44d7> .
+
+<https://resource.fiafcore.org/b78bb7f8-316d-4ecd-aa94-7b584d5da25c> a fiaf:Event ;
+    rdfs:label "1971 FIAF Congress"@en ;
+    fiaf:hasEventDate "1971-06-01",
+        "1971-06-04" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/80c1369b-efc9-471c-b59c-90cdcd1c111c> .
+
+<https://resource.fiafcore.org/c0d7e8de-484a-404e-bf18-5fdcba3dbc45> a fiaf:Event ;
+    rdfs:label "1967 FIAF Congress"@en ;
+    fiaf:hasEventDate "1967-06-08",
+        "1967-06-13" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/c3027e5e-631b-497e-aa5f-614b6314cf74> .
+
+<https://resource.fiafcore.org/c1ea3eba-8356-4e6b-af3e-f125bb52c76c> a fiaf:Event ;
+    rdfs:label "2008 FIAF Congress"@en ;
+    dc:description "Film Archives and the Question of Rights" ;
+    fiaf:hasEventDate "2008-04-17",
+        "2008-04-26" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/94658dd0-da82-475c-8528-f6bcbeacf0bf> .
+
+<https://resource.fiafcore.org/cabe8bff-6b25-48a2-b5c1-502c5b3fda59> a fiaf:Event ;
+    rdfs:label "1988 FIAF Congress"@en ;
+    dc:description "Influences réciproques" ;
+    fiaf:hasEventDate "1988-06-01",
+        "1988-06-04" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/94658dd0-da82-475c-8528-f6bcbeacf0bf> .
+
+<https://resource.fiafcore.org/cb6f6ae6-6892-4397-a501-4f8082f30400> a fiaf:Event ;
+    rdfs:label "1953 FIAF Congress"@en ;
+    fiaf:hasEventDate "1953-10-24",
+        "1953-11-02" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/4729e887-bada-40f1-84c5-b5b41e639cae> .
+
+<https://resource.fiafcore.org/cd51734a-29ec-48ae-9158-fad1daad7633> a fiaf:Event ;
+    rdfs:label "1994 FIAF Congress"@en ;
+    dc:description "A Philosophy of Audiovisual Archiving" ;
+    fiaf:hasEventDate "1994-04-27",
+        "1994-05-03" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/bb065a4d-5599-4dd9-abe1-59d40ae6dbfc> .
+
+<https://resource.fiafcore.org/d9dafaa8-06e7-4555-91fc-b9466a77c51a> a fiaf:Event ;
+    rdfs:label "1946 FIAF Congress"@en ;
+    fiaf:hasEventDate "1946-07-15",
+        "1946-07-18" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/94658dd0-da82-475c-8528-f6bcbeacf0bf> .
+
+<https://resource.fiafcore.org/da06bd6c-cf72-4c4b-8af4-923fd907f3e6> a fiaf:Event ;
+    rdfs:label "1990 FIAF Congress"@en ;
+    dc:description "Film Archiving in Developing Countries / The Ibero-American Film of the 1930s, 40s and 50s" ;
+    fiaf:hasEventDate "1990-04-19",
+        "1990-04-24" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/256ea519-9886-4f72-9203-684f520a2a9a> .
+
+<https://resource.fiafcore.org/e3ecb79f-a6f9-4e36-a3ca-6ba08ea759b8> a fiaf:Event ;
+    rdfs:label "2012 FIAF Congress"@en ;
+    dc:description "Animation around the World (Acquisition, preservation & restoration, access)" ;
+    fiaf:hasEventDate "2012-04-23",
+        "2012-04-28" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/2ae9ec35-e299-46b8-92c9-5c23f6dbf6db> .
+
+<https://resource.fiafcore.org/e606fc96-d9b5-4c9c-9e19-7608b8a16e51> a fiaf:Event ;
+    rdfs:label "1999 FIAF Congress"@en ;
+    dc:description "A Century of Cinema / A Century in Cinema" ;
+    fiaf:hasEventDate "1999-04-09",
+        "1999-04-18" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/0a2a2d3b-d71e-43f8-91d7-bb1c0381ae4c> .
+
+<https://resource.fiafcore.org/ebb4a498-5784-46e7-9986-bee2b5fa5138> a fiaf:Event ;
+    rdfs:label "2000 FIAF Congress"@en ;
+    dc:description "The Last Nitrate Picture Show / The Futurology of Film Archiving" ;
+    fiaf:hasEventDate "2000-06-01",
+        "2000-06-10" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/c61c83da-93a4-4de5-8838-232c4e239d3c> .
+
+<https://resource.fiafcore.org/ec09ff31-e9c2-4558-9a84-fda9cd1582e6> a fiaf:Event ;
+    rdfs:label "1954 FIAF Congress"@en ;
+    fiaf:hasEventDate "1954-10-11",
+        "1954-10-16" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/6906d2da-6df5-4338-ba19-5adff7804b9d> .
+
+<https://resource.fiafcore.org/f0f0cead-c1e4-4b92-b723-32e87025623c> a fiaf:Event ;
+    rdfs:label "1978 FIAF Congress"@en ;
+    dc:description "the Present and the Future" ;
+    fiaf:hasEventDate "1978-05-28",
+        "1978-06-02" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/a707673b-5610-47c5-9144-8db05e4c8c44> .
+
+<https://resource.fiafcore.org/f256c306-7e23-4518-9376-a94a46f09cbb> a fiaf:Event ;
+    rdfs:label "1977 FIAF Congress"@en ;
+    dc:description "The Influence of Soviet Silent Cinema on World Cinema" ;
+    fiaf:hasEventDate "1977-05-27",
+        "1977-05-28" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/a1ec4fff-0a1f-4ef8-8448-4268c2a1b2e6> .
+
+<https://resource.fiafcore.org/f7da59af-6c0d-4456-b746-a6eb4841fb05> a fiaf:Event ;
+    rdfs:label "2010 FIAF Congress"@en ;
+    dc:description "Digital Challenges and Digital Opportunities in Audiovisual Archiving" ;
+    fiaf:hasEventDate "2010-05-02",
+        "2010-05-08" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/b27c3f37-47b2-41ad-b338-e0c1eb55a65b> .
+
+<https://resource.fiafcore.org/f83b23ac-c861-4df6-81ef-991e7b1b7930> a fiaf:Event ;
+    rdfs:label "2004 FIAF Congress"@en ;
+    dc:description "No Time, No Money - Moving Image And Sound Archiving Under Emergency Conditions" ;
+    fiaf:hasEventDate "2004-04-18",
+        "2004-04-24" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/3809dd59-b25c-4571-8259-b7357a168fcd> .
+
+<https://resource.fiafcore.org/fbf46d0e-9359-4867-9399-bbc482437350> a fiaf:Event ;
+    rdfs:label "1952 FIAF Congress"@en ;
+    fiaf:hasEventDate "1952-10-27",
+        "1952-11-05" ;
+    fiaf:hasEventLocation <https://resource.fiafcore.org/84150bce-b446-4e86-a56a-d6fb40a5176c> .
+
+<https://resource.fiafcore.org/02118730-d305-42ac-b9c2-470ad7d37c93> a fiaf:Location ;
+    rdfs:label "Antibes" .
+
+<https://resource.fiafcore.org/08aab8fa-f26c-4382-85e3-0f87a47ba6c2> a fiaf:Location ;
+    rdfs:label "Barcelona" .
+
+<https://resource.fiafcore.org/0a2a2d3b-d71e-43f8-91d7-bb1c0381ae4c> a fiaf:Location ;
+    rdfs:label "Madrid" .
+
+<https://resource.fiafcore.org/0d383f3f-a675-4b91-bae9-e786d768033b> a fiaf:Location ;
+    rdfs:label "Sydney / Canberra" .
+
+<https://resource.fiafcore.org/126931cb-cab1-4dbc-8419-78a2fcfec071> a fiaf:Location ;
+    rdfs:label "Karlovy-Vary" .
+
+<https://resource.fiafcore.org/21d8918d-1f8c-4e23-aa8b-ed043ea7edd1> a fiaf:Location ;
+    rdfs:label "Oaxtepec" .
+
+<https://resource.fiafcore.org/256ea519-9886-4f72-9203-684f520a2a9a> a fiaf:Location ;
+    rdfs:label "Havana" .
+
+<https://resource.fiafcore.org/2ae9ec35-e299-46b8-92c9-5c23f6dbf6db> a fiaf:Location ;
+    rdfs:label "Beijing" .
+
+<https://resource.fiafcore.org/2f94e0fb-86b6-4e53-8cf1-27577c3eb345> a fiaf:Location ;
+    rdfs:label "Warsaw" .
+
+<https://resource.fiafcore.org/354d9be2-2e72-47c2-a0e3-20b457fd6267> a fiaf:Location ;
+    rdfs:label "Rapallo" .
+
+<https://resource.fiafcore.org/3809dd59-b25c-4571-8259-b7357a168fcd> a fiaf:Location ;
+    rdfs:label "Hanoi" .
+
+<https://resource.fiafcore.org/384a385d-b782-49cc-9b35-4edd947b0033> a fiaf:Location ;
+    rdfs:label "Mo I Rana" .
+
+<https://resource.fiafcore.org/3949a8cb-1c69-424e-9ceb-6824c844838d> a fiaf:Location ;
+    rdfs:label "Tokyo" .
+
+<https://resource.fiafcore.org/4729e887-bada-40f1-84c5-b5b41e639cae> a fiaf:Location ;
+    rdfs:label "Vence" .
+
+<https://resource.fiafcore.org/4b2b93cb-e3c3-4afc-b65a-076a7ebd9df2> a fiaf:Location ;
+    rdfs:label "Sofia" .
+
+<https://resource.fiafcore.org/4baa7f72-fa40-4cf9-898a-8c8839108457> a fiaf:Location ;
+    rdfs:label "Athens" .
+
+<https://resource.fiafcore.org/51476835-3935-47d2-ac33-8a6c83ab1407> a fiaf:Location ;
+    rdfs:label "Seoul" .
+
+<https://resource.fiafcore.org/53faa0cd-ae33-4ff5-b0d2-5a6838111484> a fiaf:Location ;
+    rdfs:label "Torino" .
+
+<https://resource.fiafcore.org/64a5bc02-470f-40db-a751-3665ee43c635> a fiaf:Location ;
+    rdfs:label "Vienna" .
+
+<https://resource.fiafcore.org/6f8c608e-7720-4a00-8337-c069a731f923> a fiaf:Location ;
+    rdfs:label "Rabat" .
+
+<https://resource.fiafcore.org/784ef6ac-5e9d-4db7-ba89-75cd50db44d7> a fiaf:Location ;
+    rdfs:label "São Paulo" .
+
+<https://resource.fiafcore.org/7abb9459-0af9-4c9c-843a-bb9a76122bd8> a fiaf:Location ;
+    rdfs:label "Mexico City (held online)" .
+
+<https://resource.fiafcore.org/80c1369b-efc9-471c-b59c-90cdcd1c111c> a fiaf:Location ;
+    rdfs:label "Wiesbaden" .
+
+<https://resource.fiafcore.org/867451fd-0437-43df-ad46-c68bc5c75c78> a fiaf:Location ;
+    rdfs:label "Skopje" .
+
+<https://resource.fiafcore.org/87f83330-1088-4f78-ad1b-990c9f83c53f> a fiaf:Location ;
+    rdfs:label "Canberra" .
+
+<https://resource.fiafcore.org/8ce138d6-1190-43ac-80ca-318c236db229> a fiaf:Location ;
+    rdfs:label "Bucharest" .
+
+<https://resource.fiafcore.org/9659e433-6e00-4f89-bd71-e9175317ea86> a fiaf:Location ;
+    rdfs:label "Berlin (West)" .
+
+<https://resource.fiafcore.org/a1ec4fff-0a1f-4ef8-8448-4268c2a1b2e6> a fiaf:Location ;
+    rdfs:label "Varna" .
+
+<https://resource.fiafcore.org/a707673b-5610-47c5-9144-8db05e4c8c44> a fiaf:Location ;
+    rdfs:label "Brighton" .
+
+<https://resource.fiafcore.org/a7faa03c-3870-47dd-81e1-c3b78cc3f383> a fiaf:Location ;
+    rdfs:label "Cartagena" .
+
+<https://resource.fiafcore.org/ab080cc5-0e0e-4273-93a9-08a919d173ae> a fiaf:Location ;
+    rdfs:label "Lyon" .
+
+<https://resource.fiafcore.org/acdc82df-086c-46da-aeeb-e32ded0da1f3> a fiaf:Location ;
+    rdfs:label "Ottawa" .
+
+<https://resource.fiafcore.org/af250141-c74a-4632-a4db-c68ee32d7deb> a fiaf:Location ;
+    rdfs:label "Jerusalem" .
+
+<https://resource.fiafcore.org/b7a4d267-7fcc-4f53-9e20-1d9ba8a36618> a fiaf:Location ;
+    rdfs:label "Belgrade" .
+
+<https://resource.fiafcore.org/b7d69bb8-daa5-4231-8d04-b60d3e57dc6e> a fiaf:Location ;
+    rdfs:label "Dubrovnik" .
+
+<https://resource.fiafcore.org/c3027e5e-631b-497e-aa5f-614b6314cf74> a fiaf:Location ;
+    rdfs:label "East-Berlin" .
+
+<https://resource.fiafcore.org/ccd62cd5-fedd-4fd3-af20-f9d851b2dea1> a fiaf:Location ;
+    rdfs:label "Ljubljana" .
+
+<https://resource.fiafcore.org/d1625d76-4d33-4458-8d08-200bea0915e0> a fiaf:Location ;
+    rdfs:label "Cambridge" .
+
+<https://resource.fiafcore.org/d852e1c7-ef27-4b6f-9980-09df0445bd26> a fiaf:Location ;
+    rdfs:label "Copenhagen" .
+
+<https://resource.fiafcore.org/d8966136-ac23-4ba2-9189-e46adee3356b> a fiaf:Location ;
+    rdfs:label "Lisbon" .
+
+<https://resource.fiafcore.org/da516c37-497d-4a38-91ba-0fd41ec4b35b> a fiaf:Location ;
+    rdfs:label "Buenos Aires" .
+
+<https://resource.fiafcore.org/dba84e01-35cc-4943-a36c-32d495be2e70> a fiaf:Location ;
+    rdfs:label "Stockholm - Helsinki" .
+
+<https://resource.fiafcore.org/e354e4be-a18e-4f75-9639-ad5be3e9c7e0> a fiaf:Location ;
+    rdfs:label "Mexico City" .
+
+<https://resource.fiafcore.org/ed05d29f-9db9-4b62-b076-3251199c7f6f> a fiaf:Location ;
+    rdfs:label "Montevideo" .
+
+<https://resource.fiafcore.org/f1621e39-38ba-473f-86ec-7d28782dbae6> a fiaf:Location ;
+    rdfs:label "Pretoria" .
+
+<https://resource.fiafcore.org/097a9a0c-1d55-4e14-b20c-06138d5afa3e> a fiaf:Location ;
+    rdfs:label "Rome" .
+
+<https://resource.fiafcore.org/250f5e43-9fb4-4a3e-951f-3cc8b61f407b> a fiaf:Location ;
+    rdfs:label "Stockholm" .
+
+<https://resource.fiafcore.org/3f6e917a-8396-463e-8eca-d421ceaab7fc> a fiaf:Location ;
+    rdfs:label "Los Angeles" .
+
+<https://resource.fiafcore.org/7f6ead71-b25a-4dc7-a7d5-69533608b73f> a fiaf:Location ;
+    rdfs:label "Budapest" .
+
+<https://resource.fiafcore.org/84150bce-b446-4e86-a56a-d6fb40a5176c> a fiaf:Location ;
+    rdfs:label "Amsterdam" .
+
+<https://resource.fiafcore.org/b27c3f37-47b2-41ad-b338-e0c1eb55a65b> a fiaf:Location ;
+    rdfs:label "Oslo" .
+
+<https://resource.fiafcore.org/bb065a4d-5599-4dd9-abe1-59d40ae6dbfc> a fiaf:Location ;
+    rdfs:label "Bologna" .
+
+<https://resource.fiafcore.org/c61c83da-93a4-4de5-8838-232c4e239d3c> a fiaf:Location ;
+    rdfs:label "London" .
+
+<https://resource.fiafcore.org/f041bf5a-8004-4b50-bf8d-ff67b91d9053> a fiaf:Location ;
+    rdfs:label "Moscow" .
+
+<https://resource.fiafcore.org/07ff87b1-1721-4a8f-9eeb-304f2a58590a> a fiaf:Location ;
+    rdfs:label "Prague" .
+
+<https://resource.fiafcore.org/6906d2da-6df5-4338-ba19-5adff7804b9d> a fiaf:Location ;
+    rdfs:label "Lausanne" .
+
+<https://resource.fiafcore.org/94658dd0-da82-475c-8528-f6bcbeacf0bf> a fiaf:Location ;
+    rdfs:label "Paris" .
+
+<https://resource.fiafcore.org/a7b00394-5ce4-49ee-8af5-50ec6400fa1a> a fiaf:Location ;
+    rdfs:label "New York" .
+
