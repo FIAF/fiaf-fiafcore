@@ -5,4 +5,8 @@
   a fiaf:CorporateBody ;
   rdfs:label "International Federation of Film Archives"@en, 
     "Federación Internacional de Archivos Fílmicos"@es, 
-    "Fédération internationale des archives du film"@fr .
+    "Fédération internationale des archives du film"@fr ;
+  fiaf:hasIdentifier [
+    fiaf:hasIdentifierValue "Q586693" ;
+    fiaf:hasIdentifierAuthority <https://www.wikidata.org>
+  ] .

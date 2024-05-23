@@ -13,8 +13,6 @@ FIAF data conformed to FIAFcore.
 The etl process expects an `.env` file
 
 ```sh
-atlas_username= # Mongo Atlas username
-atlas_password= # Mongo Atlas password
 graph_username= # GraphDB username
 graph_password= # GraphDB password
 ```
