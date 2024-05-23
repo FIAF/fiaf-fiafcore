@@ -4,7 +4,6 @@
 import dotenv
 import os
 import pathlib
-import pymongo
 import rdflib
 import requests
 
